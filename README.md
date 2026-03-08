@@ -25,14 +25,14 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [x] Describe the game's purpose. To Guess the secret number
+- [x] Detail which bugs you found. I found bugs on New Game button, backward hints, and check_guess
+- [x] Explain what fixes you applied. The New Game button resets the game now, the hints correctly suggest the users, and Refactor successfully check_guess.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
-
+- [x] [Insert a screenshot of your fixed, winning game here]
+![alt text](image.png)
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]

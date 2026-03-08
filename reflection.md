@@ -47,5 +47,6 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
   - This could be a testing habit, a prompting strategy, or a way you used Git.
-- What is one thing you would do differently next time you work with AI on a coding task?
-- In one or two sentences, describe how this project changed the way you think about AI generated code.
+  Always question the suggestions of AI and check if they are logically correct.
+- What is one thing you would do differently next time you work with AI on a coding task? I am not sure yet, still learning from lecturer.
+- In one or two sentences, describe how this project changed the way you think about AI generated code. I have a better understanding of how to prompt for AI to code and make it more reliable and less prone-error. Always question the suggested code from it and make sure to fully understand what you want from them so you are not overly dependent on it.
